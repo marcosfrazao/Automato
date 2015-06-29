@@ -72,6 +72,7 @@ public class Ferramentas {
             }
 
         }
+        
 
         // criar estados finais
         for (String string : estadosCompostos) {
